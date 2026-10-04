@@ -1,0 +1,7 @@
+name = "ali-agent"
+compatibility_date = "2025-09-01"
+pages_build_output_dir = "./public"
+
+# Voix de secours (Workers AI) si la voix Edge est bloquée. Optionnel, gratuit dans la limite du quota.
+[ai]
+binding = "AI"
